@@ -12,5 +12,10 @@ namespace AngularSignalR.Controllers
         {
             return View();
         }
+
+        public ActionResult About()
+        {
+            return View();
+        }
     }
 }

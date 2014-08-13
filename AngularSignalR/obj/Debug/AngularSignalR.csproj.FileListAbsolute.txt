@@ -72,3 +72,40 @@ F:\AngularSignalR\AngularSignalR\bin\Antlr3.Runtime.pdb
 F:\AngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.csprojResolveAssemblyReference.cache
 F:\AngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.dll
 F:\AngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.pdb
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\AngularSignalR.dll.config
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\AngularSignalR.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\AngularSignalR.pdb
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Antlr3.Runtime.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.Security.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Newtonsoft.Json.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Owin.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Helpers.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Mvc.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Optimization.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Razor.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.Razor.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\WebGrease.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Microsoft.Owin.Security.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Helpers.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Mvc.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Optimization.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.Razor.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\System.Web.WebPages.Razor.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Newtonsoft.Json.xml
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\bin\Antlr3.Runtime.pdb
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.csprojResolveAssemblyReference.cache
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.dll
+D:\Projetos Git\AngularSignalR\ExampleAngularSignalR\AngularSignalR\obj\Debug\AngularSignalR.pdb
