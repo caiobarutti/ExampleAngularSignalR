@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="center-block" style="width: 450px" ng-controller="main-controller">
+    <div class="panel panel-info" style="margin-top: 30px; margin-left: 20px">
+        <div class="panel-heading">
+            <div class="row">
+                <div class="col-sm-4"><h3 class="panel-title">Chat</h3></div>
+                <div class="col-sm-8" ng-show="nameSet">
+                    <input ng-hide="inRoom" ng-keypress="joinRoomEnter($event)" ng-model="roomName" type="text" class="form-control input-sm pull-left" style="width:60%" placeholder="Room" />
+                    <button ng-hide="inRoom" ng-click="joinRoom()" class="btn btn-primary btn-sm pull-right">Join Room</button>
+                    <label ng-show="inRoom" class="label">{{roomName}}</label>
+                    <button ng-show="inRoom" ng-click="leaveRoom()" class="btn btn-warning btn-sm pull-right">Leave Room</button>  
+                </div>
+            </div>
+        </div>
+        
+        <div class="panel-body">
+            <div id="divChat" class="autoscroll">
+                <div ng-repeat="msg in messages">{{msg.message}}</div>
+            </div>
+            <div>
+                <input ng-show="nameSet" ng-model="newMessage" class="form-control input-sm pull-left" style="width: 90%" type="text" placeholder="Enter your message..." ng-keypress="sendMessageEnter($event)" />
+                <button ng-show="nameSet" ng-click="sendMessage()" class="pull-right btn btn-primary btn-sm" style="width: 20%">Send</button>
+                <input ng-hide="nameSet" ng-keypress="setNameEnter($event)" ng-model="name" class="form-control input-sm pull-left" style="width:80%" type="text" placeholder="Enter your name" autofocus />
+                <button ng-hide="nameSet" ng-click="setName()" class="pull-right btn btn-primary btn-sm" >Set Name</button>
+            </div>
+        </div>
+    </div>
+</div>
